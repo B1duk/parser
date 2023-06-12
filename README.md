@@ -1,0 +1,1 @@
+the first independent attempts to write a parser that displays possible vacancies from a job search site
